@@ -11,6 +11,7 @@ void show(int m[][my_max],int rows, int cols){
     }
     cout<<endl;
 }
+//Hola
 int main(){
     int rows,cols;
     cout<<"Fila: ";cin>>rows;
