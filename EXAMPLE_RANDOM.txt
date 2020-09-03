@@ -1,0 +1,8 @@
+#include<stdlib.h>
+#include<time.h>
+srand(time(NULL));
+num = rand();
+num=rand()%51;
+num=1+rand()%(101-1);
+num=250+rand()%(421-250);
+variable = limite_inferior + rand() % (limite_superior +1 - limite_inferior) ; 
